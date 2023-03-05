@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	oraclizeapi "https://github.com/provable-things/fabric-api"
-	//"github.com/hyperledger/fabric-contract-api-go/contractapi"
-	"https://github.com/hyperledger/fabric-contract-api-go/tree/main/contractapi"
+	"github.com/hyperledger/fabric-contract-api-go/contractapi
+	//"github.com/hyperledger/fabric-contract-api-go/tree/main/contractapi"
 )
 
 // SmartContract defines the Smart Contract structure
